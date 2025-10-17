@@ -1,0 +1,5 @@
+aws_region       = "us-east-1"
+ami_id           = "ami-0c94855ba95c71c99"
+instance_type    = "t2.micro"
+key_name         = "demo-key"
+public_key_path  = "~/.ssh/id_rsa.pub"
